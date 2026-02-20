@@ -9,7 +9,6 @@ Measurement Lab (M-Lab) [https://www.measurementlab.net/](https://www.measuremen
 - Hosting the largest open Internet performance dataset on the planet
 - Creating visualizations and tools to help people make sense of Internet performance
 
-
 ## Why Participate with Us?
 
 - **Mentorship**: Work closely with experienced developers and active community members
@@ -28,14 +27,29 @@ Before applying, we strongly encourage you to:
 - Join our communication channels:
   - Mailing list: [link](https://groups.google.com/a/measurementlab.net/g/discuss)
 
-### 2. Make Your First Contribution
+### 2. Engage With Us
 
-We highly value applicants who have already contributed to our project. Here's how to get started:
+We are looking for applicants who:
 
-1. **Find a good first issue**: Look for issues tagged with `good-first-issue` or `gsoc-starter`
-2. **Introduce yourself**: Comment on the issue expressing your interest
-3. **Submit a pull request**: Even small contributions (documentation, bug fixes, tests) are valuable
-4. **Engage with the community**: Ask questions, help others, participate in discussions
+* Carefully study our project ideas
+* Develop an initial technical proposal or idea
+* Think critically about scope, feasibility, and implementation
+* Contact us with a structured, well-prepared message
+
+We strongly discourage:
+
+* ❌ Contacting us just to “introduce yourself” without having done prior research
+* ❌ Submitting AI-generated or low-effort PRs
+* ❌ Submitting drive-by PRs just to “show activity”
+
+Quality of thinking matters far more than quantity of commits. 
+
+How to engage with us:
+
+* You may contact us at [support@measurementlab.net](mailto:support@measurementlab.net). Please begin your email subject with **`[GSoC2026]`** followed by a concise project title.
+* Kindly **do not** post proposal ideas directly to the [mailing list](https://groups.google.com/a/measurementlab.net/g/discuss).
+* Please note that, due to limited mentor availability, we may not be able to respond to all inquiries—particularly those that do not demonstrate prior research or substantive preparation.
+
 
 ### 3. Develop Your Proposal
 
