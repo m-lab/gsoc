@@ -99,13 +99,49 @@ Flooding our repositories with unsolicited contributions does not demonstrate
 engagement — it creates work for our maintainers and takes time
 away from mentoring genuine applicants.
 
-#### A note on AI-assisted contributions
+#### Policy on AI-assisted contributions
 
-We are not opposed to the thoughtful use of AI tools. However, we expect
-every contributor to fully understand, be able to explain, and take
-responsibility for every line of code or text they submit. Raw AI output
-is not acceptable. If you use AI tools, you must disclose this and be
-prepared to discuss your work in detail.
+We are not opposed to the thoughtful use of AI tools. However, the volume
+of unreviewed, AI-generated contributions we have received during this
+application period has made it necessary to set explicit expectations.
+
+**Disclosure requirement.** All code contributions and proposals must include
+an AI Assistance Disclosure if AI tools were used in any part of the work.
+State what was AI-generated, how AI was used, and confirm that you have
+reviewed and understand the output. Omitting disclosure when AI was used
+is grounds for immediate rejection.
+
+**Proposals.** Your proposal must reflect your own thinking. You may use AI
+tools for grammar and clarity improvements, but the substance of your
+proposal — the technical approach, the timeline, the design decisions — must
+be your own work. Proposals that read as raw AI output will be rejected
+without further review.
+
+**Communication with reviewers.** Do not, *under any circumstances*, use AI
+to respond to review comments or communicate with maintainers. We have
+received numerous AI-generated replies to code reviews and emails, and they
+are obvious. Genuine engagement with feedback is a core part of how we
+evaluate contributors. AI-generated replies to reviews are disrespectful to
+the review process and will be treated as grounds for rejection.
+
+**Quality standards.** Using AI does not lower our standards. We will reject
+contributions that exhibit signs of unreviewed AI output, including but not
+limited to:
+
+* Large auto-generated summaries or commit messages
+* Verbose, boilerplate documentation that adds no real value
+* Over-engineered code with unnecessary abstractions
+* Trivial or redundant tests
+* Unreviewed boilerplate that does not fit the project's conventions
+
+**Understanding requirement.** You must fully understand every line of code
+and every design decision in your contributions. During the program, we will
+have live discussions about your work. If you cannot explain what you
+submitted, it will be evident.
+
+**Enforcement.** Failure to disclose AI usage, submit reviewed work, or
+demonstrate understanding of your contributions may result in immediate
+rejection of your application or removal from the program.
 
 #### Due to limited mentor availability
 
