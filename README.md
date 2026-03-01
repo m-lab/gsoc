@@ -46,7 +46,7 @@ Before applying, we strongly encourage you to:
 - Explore our [main repository](https://github.com/orgs/m-lab/repositories) and the repositories of the proposed projects (see below)
 - Visit our [website](https://www.measurementlab.net/) and read about our [activities](https://www.measurementlab.net/about/), [news](https://www.measurementlab.net/blog/), and documentation of our [tools](https://www.measurementlab.net/tests/) and [data](https://www.measurementlab.net/data/)
 - Join our communication channels:
-  - Mailing list: [link](https://groups.google.com/a/measurementlab.net/g/discuss)
+  - Mailing list: [gsoc-contributors](https://groups.google.com/a/measurementlab.net/g/gsoc-contributors)
 
 ### 2. Engage With Us
 
@@ -60,11 +60,11 @@ genuinely interested in our mission.
 Before opening any pull request, issue, or submitting a GSoC proposal for
 M-Lab, you **must** complete the following steps:
 
-1. **Email us first.** Write to
-[support@measurementlab.net](mailto:support@measurementlab.net) with the
-subject line **`[GSoC2026]`** followed by a concise project title. In
-your email, introduce yourself, describe the project idea you are interested
-in, and explain your relevant background. This email should demonstrate
+1. **Introduce yourself on the mailing list.** Join the
+[gsoc-contributors](https://groups.google.com/a/measurementlab.net/g/gsoc-contributors)
+mailing list and post an introduction with the subject line **`[GSoC2026]`**
+followed by a concise project title. Describe the project idea you are
+interested in and explain your relevant background. This should demonstrate
 that you have studied our project ideas and documentation.
 
 2. **Be ready for a conversation.** Mentors may follow up with questions or
@@ -93,7 +93,7 @@ considered favorably.
 * Contacting us just to “introduce yourself” without having done prior research
 
 * Posting proposal ideas directly to the
-[mailing list](https://groups.google.com/a/measurementlab.net/g/discuss)
+[mailing list](https://groups.google.com/a/measurementlab.net/g/gsoc-contributors)
 
 Flooding our repositories with unsolicited contributions does not demonstrate
 engagement — it creates work for our maintainers and takes time
@@ -312,9 +312,10 @@ This depends on the project. See individual project descriptions for required an
 
 ### Do I need to make contributions before applying?
 
-You must contact us at [support@measurementlab.net](mailto:support@measurementlab.net)
-before contributing code. See the [engagement requirements](#2-engage-with-us) above. Coordinated
-contributions strengthen your application; unsolicited pull requests do not.
+You must introduce yourself on the
+[gsoc-contributors](https://groups.google.com/a/measurementlab.net/g/gsoc-contributors)
+mailing list before contributing code. See the [engagement requirements](#2-engage-with-us)
+above. Coordinated contributions strengthen your application; unsolicited pull requests do not.
 
 ### What happens if I can't complete the project?
 
